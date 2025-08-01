@@ -23,7 +23,7 @@ A Python-based tool to analyze `.eml` files and Gmail inbox messages for phishin
 - Internet access required for Gmail scanning
 
 ## ▶️ How to Run
-python email_forensics_gui.py
+python -u email_analyzer.py
 
 
 
